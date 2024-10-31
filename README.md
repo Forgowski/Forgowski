@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Krzysztof Tyszkiewicz</h1>
 <h3 align="center">Young Python Developer</h3>
 
-- 🔭 I’m currently working on [Game in Pygame](https://github.com/Forgowski/PG_game)
+- 🔭 I’m currently working on [Investment manager]
 
 - 🌱 I’m currently learning **Django, Pytest, SQL**
 
