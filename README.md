@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Krzysztof Tyszkiewicz</h1>
-<h3 align="center">Young Python Developer</h3>
+<h3 align="center">Junior QA Engineer</h3>
 
 - 🔭 I’m currently working on **Investment manager**
 
-- 🌱 I’m currently learning **Django, Pytest, SQL**
+- 🌱 I’m currently learning **Playwright, CI/CD**
 
 - 📫 How to reach me **krzysztof.tyszkiewicz.kt@gmail.com**
 
